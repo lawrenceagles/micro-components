@@ -12,23 +12,11 @@ const App = () => {
 				</Text>
 			</Flex>
 
-			<Flex bg={'dirtyBrown'} p={6} mx={6} my={4}>
+			{/* <Flex bg={'dirtyBrown'} p={6} mx={6} my={4}>
 				<Text textAlign="center">
 					This is a tomato box, with responsive width, some padding, and margin bottom
 				</Text>
-			</Flex>
-
-			<Flex bg={'warning'} p={6} mx={6} my={4}>
-				<Text textAlign="center">
-					This is a tomato box, with responsive width, some padding, and margin bottom
-				</Text>
-			</Flex>
-
-			<Flex bg={'lightBlue'} p={6} mx={6} my={4}>
-				<Text textAlign="center">
-					This is a tomato box, with responsive width, some padding, and margin bottom
-				</Text>
-			</Flex>
+			</Flex> */}
 		</ThemeProvider>
 	);
 };

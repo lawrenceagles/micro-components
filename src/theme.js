@@ -7,6 +7,7 @@ const baseTheme = {
 		sansSerif: 'helvetica neue", helvetica, ubuntu, roboto, noto, sans-serif'
 	},
 	borders: [ 0, '2px solid', '4px solid', '6px solid', '8px solid', '10px solid' ],
+	radii: [ 0, 2, 4, 6, 8, 10, 12, 16 ],
 	colors: {
 		black: '#000000',
 		lightBlue: '#1ecbe1',
