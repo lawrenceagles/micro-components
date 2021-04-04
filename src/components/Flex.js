@@ -1,5 +1,5 @@
 import styled from 'styled-components';
-import { space, color, layout, flex } from 'styled-system';
+import { space, color, flex } from 'styled-system';
 
 const Flex = styled.section(
 	{
@@ -8,8 +8,7 @@ const Flex = styled.section(
 	},
 	flex,
 	space,
-	color,
-	layout
+	color
 );
 
 export default Flex;
